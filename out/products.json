@@ -1,0 +1,1819 @@
+[
+  {
+    "product": {
+      "name": "DeWalt 20V MAX 1/2 in. Brushed Cordless Compact Drill Kit (Battery & Charger)",
+      "price": {
+        "price": 129.0,
+        "currency": "USD",
+        "compare_at_price": null
+      },
+      "description": "The DCD771C2 20V MAX Lithium Ion Compact Drill/Driver Kit is lightweight and compact for working in tight spaces for long periods of time. High-speed transmission delivers 2-Speed variations allowing users to choose the level of performance needed for various applications.",
+      "key_features": [
+        "Compact, lightweight design",
+        "2-Speed variations for different tasks",
+        "1/2 in. single sleeve ratcheting chuck",
+        "Ergonomic handle for comfort and control",
+        "Includes battery & charger",
+        "DeWalt 20V MAX Lithium Ion"
+      ],
+      "image_urls": [
+        "https://cdn-tp6.mozu.com/24645-37138/cms/37138/files/f7b42b30-cf5a-4829-be02-76bf93727867",
+        "https://cdn-tp6.mozu.com/24645-37138/cms/37138/files/b9e63a53-01c5-44c6-97e2-9c78a7ed2a10",
+        "https://cdn-tp6.mozu.com/24645-37138/cms/37138/files/373f3cb5-5ecf-4a57-b7d6-510d8698e977",
+        "https://cdn-tp6.mozu.com/24645-37138/cms/37138/files/9e7c188d-d2b8-4217-b5f8-48b29fd445b1",
+        "https://cdn-tp6.mozu.com/24645-37138/cms/37138/files/f27d0a21-766f-4f84-9927-30cf76b27188",
+        "https://cdn-tp6.mozu.com/24645-37138/cms/37138/files/1b434a2e-7528-42cc-a489-83177395594b",
+        "https://cdn-tp6.mozu.com/24645-37138/cms/37138/files/bb222bcf-a069-4d02-b9d9-f23410f64138",
+        "https://cdn-tp6.mozu.com/24645-37138/cms/37138/files/028f1d30-dca3-4b44-84ef-40a6f3b149e8"
+      ],
+      "video_url": null,
+      "category": {
+        "name": "Hardware > Tools > Drills > Handheld Power Drills"
+      },
+      "brand": "DeWalt",
+      "colors": [],
+      "variants": [
+        {
+          "sku": "2385458",
+          "options": {},
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        }
+      ],
+      "options": []
+    },
+    "url": "https://www.acehardware.com/departments/tools/power-tools/cordless-drills/2385458",
+    "source": "ace.html",
+    "confidence": 1.0,
+    "warnings": [],
+    "field_sources": {
+      "name": "json:name",
+      "brand": "json:brand",
+      "description": "json:description",
+      "price": "json:offers.price"
+    },
+    "elapsed_s": 3.14
+  },
+  {
+    "product": {
+      "name": "Miller Cotton Lyocell Trousers",
+      "price": {
+        "price": 170.0,
+        "currency": "USD",
+        "compare_at_price": 200.0
+      },
+      "description": "- 65% TENCEL™ Lyocell, 35% cotton - One visible button and one button inside - Topstitch at waistband - Side pockets - Two back pockets with buttoning",
+      "key_features": [
+        "65% TENCEL Lyocell, 35% cotton",
+        "One visible button and one button inside",
+        "Topstitch at waistband",
+        "Side pockets",
+        "Two back pockets with buttoning"
+      ],
+      "image_urls": [
+        "https://adaysmarch.centracdn.net/client/dynamic/images/8521_8e75528d95-102805-50_miller_cotton_lyocell_trousers_iron0822-max.jpg",
+        "https://adaysmarch.centracdn.net/client/dynamic/images/8521_d363c12cd7-miller-cotton-lyocell-iron-max.jpg",
+        "https://adaysmarch.centracdn.net/client/dynamic/images/8521_7915020793-102805-50_miller_cotton_lyocell_trousers_iron0828-max.jpg",
+        "https://adaysmarch.centracdn.net/client/dynamic/images/8521_b0d68ef8f6-102805-50_miller_cotton_lyocell_trousers_iron0839-max.jpg",
+        "https://adaysmarch.centracdn.net/client/dynamic/images/8521_b24209b41b-102805-50_miller_cotton_lyocell_trousers_iron0841-max.jpg"
+      ],
+      "video_url": "https://adaysmarch.centracdn.net/client/dynamic/attributes/531/miller_2x3.mp4",
+      "category": {
+        "name": "Apparel & Accessories > Clothing > Pants"
+      },
+      "brand": "A Day's March",
+      "colors": [],
+      "variants": [
+        {
+          "sku": "1028055044S",
+          "options": {
+            "Size": "44"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "in_stock",
+          "gtin": "7340209752922",
+          "mpn": null
+        },
+        {
+          "sku": "1028055046S",
+          "options": {
+            "Size": "46"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "in_stock",
+          "gtin": "7340209752939",
+          "mpn": null
+        },
+        {
+          "sku": "1028055048M",
+          "options": {
+            "Size": "48"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "in_stock",
+          "gtin": "7340209752946",
+          "mpn": null
+        },
+        {
+          "sku": "1028055050L",
+          "options": {
+            "Size": "50"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "in_stock",
+          "gtin": "7340209752953",
+          "mpn": null
+        },
+        {
+          "sku": "1028055052XL",
+          "options": {
+            "Size": "52"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "in_stock",
+          "gtin": "7340209752960",
+          "mpn": null
+        },
+        {
+          "sku": "1028055054XXL",
+          "options": {
+            "Size": "54"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "in_stock",
+          "gtin": "7340209752977",
+          "mpn": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "values": [
+            "44",
+            "46",
+            "48",
+            "50",
+            "52",
+            "54"
+          ]
+        }
+      ]
+    },
+    "url": "https://www.adaysmarch.com/us/miller-cotton-lyocell-trousers-iron",
+    "source": "adaysmarch.html",
+    "confidence": 1.0,
+    "warnings": [],
+    "field_sources": {
+      "name": "json:name",
+      "brand": "json:brand",
+      "description": "json:description",
+      "price": "json:offers.price+dom:compare-at"
+    },
+    "elapsed_s": 2.65
+  },
+  {
+    "product": {
+      "name": "Pilar Floor Lamp - White Terrazzo",
+      "price": {
+        "price": 349.0,
+        "currency": "USD",
+        "compare_at_price": null
+      },
+      "description": "The Pilar is a shining light atop a tall, slender terrazzo base, emitting a warm glow from its beacon-like fabric-wrapped shade. If you're looking for that statement piece, you're in the right place—the Pilar stands four and a half feet tall, shining light across your home.",
+      "key_features": [
+        "Terrazzo base",
+        "Fabric shade",
+        "E26 7W LED bulb included",
+        "55\" height",
+        "21.5\" width",
+        "White Terrazzo color"
+      ],
+      "image_urls": [
+        "https://cdn-images.article.com/products/SKU25289/2890x1500/image154290.jpg?w=3840&q=60&fit=max",
+        "https://cdn-images.article.com/products/SKU25289/2890x1500/image154289.jpg?w=3840&q=60&fit=max",
+        "https://cdn-images.article.com/products/SKU25289/2890x1500/image169693.jpg?w=3840&q=60&fit=max",
+        "https://cdn-images.article.com/products/SKU25289/2890x1500/image154288.jpg?w=3840&q=60&fit=max",
+        "https://cdn-images.article.com/products/SKU25289/2890x1500/image154286.jpg?w=3840&q=60&fit=max",
+        "https://cdn-images.article.com/products/SKU25289/2890x1500/image154287.jpg?w=3840&q=60&fit=max",
+        "https://cdn-images.article.com/products/SKU25289/2890x1500/image154291.jpg?w=3840&q=60&fit=max",
+        "https://cdn-images.article.com/products/SKU25289/2890x1500/image154292.jpg?w=3840&q=60&fit=max",
+        "https://cdn-images.article.com/products/SKU25289/2890x1500/image154293.jpg?w=3840&q=60&fit=max",
+        "https://cdn-images.article.com/products/SKU25289/2890x1500/image154295.jpg?w=3840&q=60&fit=max",
+        "https://cdn-images.article.com/products/SKU25289/2890x1500/image154294.jpg?w=3840&q=60&fit=max",
+        "https://cdn-images.article.com/products/SKU25289/2890x1500/image154296.jpg?w=3840&q=60&fit=max"
+      ],
+      "video_url": null,
+      "category": {
+        "name": "Home & Garden > Lighting > Lamps"
+      },
+      "brand": "Article",
+      "colors": [
+        "White Terrazzo"
+      ],
+      "variants": [
+        {
+          "sku": "SKU25289",
+          "options": {},
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        }
+      ],
+      "options": []
+    },
+    "url": "https://www.article.com/product/25289/pilar-floor-lamp-white-terrazzo",
+    "source": "article.html",
+    "confidence": 1.0,
+    "warnings": [],
+    "field_sources": {
+      "name": "json:name",
+      "brand": "json:brand",
+      "description": "json:description",
+      "price": "dom:product-scope"
+    },
+    "elapsed_s": 2.8
+  },
+  {
+    "product": {
+      "name": "Men's Carefree Unshrinkable Tee, Traditional Fit, Henley",
+      "price": {
+        "price": 29.95,
+        "currency": "USD",
+        "compare_at_price": null
+      },
+      "description": "Made of soft cotton that resists wrinkles, shrinking, fading and pilling, our resilient henley keeps its shape wash after wash.",
+      "key_features": [
+        "Made of soft cotton",
+        "Resists wrinkles, shrinking, fading and pilling",
+        "Traditional Fit",
+        "Ribbed trim with Lycra elastane",
+        "Double-needle stitching",
+        "Tagless printed label"
+      ],
+      "image_urls": [
+        "https://cdni.llbean.net/is/image/wim/224626_1176_41",
+        "https://cdni.llbean.net/is/image/wim/224626_1207_41",
+        "https://cdni.llbean.net/is/image/wim/224626_464_41",
+        "https://cdni.llbean.net/is/image/wim/224626_1_41",
+        "https://cdni.llbean.net/is/image/wim/224626_38221_41",
+        "https://cdni.llbean.net/is/image/wim/224626_36814_41",
+        "https://cdni.llbean.net/is/image/wim/224626_292_41",
+        "https://cdni.llbean.net/is/image/wim/224626_55_41",
+        "https://cdni.llbean.net/is/image/wim/224626_0_44",
+        "https://cdni.llbean.net/is/image/wim/224626_0_45",
+        "https://cdni.llbean.net/is/image/wim/224626_0_46",
+        "https://cdni.llbean.net/is/image/wim/224626_0_47",
+        "https://cdni.llbean.net/is/image/wim/224626_0_48",
+        "https://cdni.llbean.net/is/image/wim/224625_1176_41",
+        "https://cdni.llbean.net/is/image/wim/224625_1_41",
+        "https://cdni.llbean.net/is/image/wim/224625_464_41",
+        "https://cdni.llbean.net/is/image/wim/224625_38221_41",
+        "https://cdni.llbean.net/is/image/wim/224625_1207_41",
+        "https://cdni.llbean.net/is/image/wim/224625_36814_41",
+        "https://cdni.llbean.net/is/image/wim/224625_292_41",
+        "https://cdni.llbean.net/is/image/wim/224625_0_44",
+        "https://cdni.llbean.net/is/image/wim/224625_0_45",
+        "https://cdni.llbean.net/is/image/wim/224625_0_46",
+        "https://cdni.llbean.net/is/image/wim/224625_0_47",
+        "https://cdni.llbean.net/is/image/wim/224625_0_48"
+      ],
+      "video_url": null,
+      "category": {
+        "name": "Apparel & Accessories > Clothing > Shirts & Tops"
+      },
+      "brand": "L.L.Bean",
+      "colors": [
+        "Black",
+        "Charcoal Heather",
+        "Delta Blue",
+        "Gray Heather",
+        "Lake",
+        "Navy Blue",
+        "Soft Spruce",
+        "White"
+      ],
+      "variants": [
+        {
+          "sku": "0ATH210002",
+          "options": {
+            "Color": "Black",
+            "Item": "Regular",
+            "Size": "Small"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH210004",
+          "options": {
+            "Color": "Black",
+            "Item": "Regular",
+            "Size": "Medium"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH210006",
+          "options": {
+            "Color": "Black",
+            "Item": "Regular",
+            "Size": "Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH210008",
+          "options": {
+            "Color": "Black",
+            "Item": "Regular",
+            "Size": "X-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH210009",
+          "options": {
+            "Color": "Black",
+            "Item": "Regular",
+            "Size": "XX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000119901",
+          "options": {
+            "Color": "Black",
+            "Item": "Regular",
+            "Size": "XXX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG410004",
+          "options": {
+            "Color": "Black",
+            "Item": "Tall",
+            "Size": "Medium"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG410006",
+          "options": {
+            "Color": "Black",
+            "Item": "Tall",
+            "Size": "Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG410008",
+          "options": {
+            "Color": "Black",
+            "Item": "Tall",
+            "Size": "X-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG410009",
+          "options": {
+            "Color": "Black",
+            "Item": "Tall",
+            "Size": "XX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000119934",
+          "options": {
+            "Color": "Black",
+            "Item": "Tall",
+            "Size": "XXX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH290002",
+          "options": {
+            "Color": "Charcoal Heather",
+            "Item": "Regular",
+            "Size": "Small"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH290004",
+          "options": {
+            "Color": "Charcoal Heather",
+            "Item": "Regular",
+            "Size": "Medium"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH290006",
+          "options": {
+            "Color": "Charcoal Heather",
+            "Item": "Regular",
+            "Size": "Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH290008",
+          "options": {
+            "Color": "Charcoal Heather",
+            "Item": "Regular",
+            "Size": "X-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH290009",
+          "options": {
+            "Color": "Charcoal Heather",
+            "Item": "Regular",
+            "Size": "XX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000119973",
+          "options": {
+            "Color": "Charcoal Heather",
+            "Item": "Regular",
+            "Size": "XXX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG490004",
+          "options": {
+            "Color": "Charcoal Heather",
+            "Item": "Tall",
+            "Size": "Medium"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG490006",
+          "options": {
+            "Color": "Charcoal Heather",
+            "Item": "Tall",
+            "Size": "Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG490008",
+          "options": {
+            "Color": "Charcoal Heather",
+            "Item": "Tall",
+            "Size": "X-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG490009",
+          "options": {
+            "Color": "Charcoal Heather",
+            "Item": "Tall",
+            "Size": "XX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000119899",
+          "options": {
+            "Color": "Charcoal Heather",
+            "Item": "Tall",
+            "Size": "XXX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH201002",
+          "options": {
+            "Color": "Delta Blue",
+            "Item": "Regular",
+            "Size": "Small"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH201004",
+          "options": {
+            "Color": "Delta Blue",
+            "Item": "Regular",
+            "Size": "Medium"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH201006",
+          "options": {
+            "Color": "Delta Blue",
+            "Item": "Regular",
+            "Size": "Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH201008",
+          "options": {
+            "Color": "Delta Blue",
+            "Item": "Regular",
+            "Size": "X-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH201009",
+          "options": {
+            "Color": "Delta Blue",
+            "Item": "Regular",
+            "Size": "XX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000119902",
+          "options": {
+            "Color": "Delta Blue",
+            "Item": "Regular",
+            "Size": "XXX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG401004",
+          "options": {
+            "Color": "Delta Blue",
+            "Item": "Tall",
+            "Size": "Medium"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG401006",
+          "options": {
+            "Color": "Delta Blue",
+            "Item": "Tall",
+            "Size": "Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG401008",
+          "options": {
+            "Color": "Delta Blue",
+            "Item": "Tall",
+            "Size": "X-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG401009",
+          "options": {
+            "Color": "Delta Blue",
+            "Item": "Tall",
+            "Size": "XX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000119936",
+          "options": {
+            "Color": "Delta Blue",
+            "Item": "Tall",
+            "Size": "XXX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH212002",
+          "options": {
+            "Color": "Gray Heather",
+            "Item": "Regular",
+            "Size": "Small"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH212004",
+          "options": {
+            "Color": "Gray Heather",
+            "Item": "Regular",
+            "Size": "Medium"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH212006",
+          "options": {
+            "Color": "Gray Heather",
+            "Item": "Regular",
+            "Size": "Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH212008",
+          "options": {
+            "Color": "Gray Heather",
+            "Item": "Regular",
+            "Size": "X-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH212009",
+          "options": {
+            "Color": "Gray Heather",
+            "Item": "Regular",
+            "Size": "XX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000119933",
+          "options": {
+            "Color": "Gray Heather",
+            "Item": "Regular",
+            "Size": "XXX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG412004",
+          "options": {
+            "Color": "Gray Heather",
+            "Item": "Tall",
+            "Size": "Medium"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG412006",
+          "options": {
+            "Color": "Gray Heather",
+            "Item": "Tall",
+            "Size": "Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG412008",
+          "options": {
+            "Color": "Gray Heather",
+            "Item": "Tall",
+            "Size": "X-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG412009",
+          "options": {
+            "Color": "Gray Heather",
+            "Item": "Tall",
+            "Size": "XX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000119972",
+          "options": {
+            "Color": "Gray Heather",
+            "Item": "Tall",
+            "Size": "XXX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000264614",
+          "options": {
+            "Color": "Lake",
+            "Item": "Regular",
+            "Size": "Small"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000264615",
+          "options": {
+            "Color": "Lake",
+            "Item": "Regular",
+            "Size": "Medium"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000264616",
+          "options": {
+            "Color": "Lake",
+            "Item": "Regular",
+            "Size": "Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000264617",
+          "options": {
+            "Color": "Lake",
+            "Item": "Regular",
+            "Size": "X-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000264618",
+          "options": {
+            "Color": "Lake",
+            "Item": "Regular",
+            "Size": "XX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000264619",
+          "options": {
+            "Color": "Lake",
+            "Item": "Regular",
+            "Size": "XXX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH216002",
+          "options": {
+            "Color": "Navy Blue",
+            "Item": "Regular",
+            "Size": "Small"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH216004",
+          "options": {
+            "Color": "Navy Blue",
+            "Item": "Regular",
+            "Size": "Medium"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH216006",
+          "options": {
+            "Color": "Navy Blue",
+            "Item": "Regular",
+            "Size": "Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH216008",
+          "options": {
+            "Color": "Navy Blue",
+            "Item": "Regular",
+            "Size": "X-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH216009",
+          "options": {
+            "Color": "Navy Blue",
+            "Item": "Regular",
+            "Size": "XX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000119974",
+          "options": {
+            "Color": "Navy Blue",
+            "Item": "Regular",
+            "Size": "XXX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG416004",
+          "options": {
+            "Color": "Navy Blue",
+            "Item": "Tall",
+            "Size": "Medium"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG416006",
+          "options": {
+            "Color": "Navy Blue",
+            "Item": "Tall",
+            "Size": "Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG416008",
+          "options": {
+            "Color": "Navy Blue",
+            "Item": "Tall",
+            "Size": "X-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG416009",
+          "options": {
+            "Color": "Navy Blue",
+            "Item": "Tall",
+            "Size": "XX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000119900",
+          "options": {
+            "Color": "Navy Blue",
+            "Item": "Tall",
+            "Size": "XXX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000223642",
+          "options": {
+            "Color": "Soft Spruce",
+            "Item": "Regular",
+            "Size": "Small"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000223643",
+          "options": {
+            "Color": "Soft Spruce",
+            "Item": "Regular",
+            "Size": "Medium"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000223644",
+          "options": {
+            "Color": "Soft Spruce",
+            "Item": "Regular",
+            "Size": "Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000223645",
+          "options": {
+            "Color": "Soft Spruce",
+            "Item": "Regular",
+            "Size": "X-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000223646",
+          "options": {
+            "Color": "Soft Spruce",
+            "Item": "Regular",
+            "Size": "XX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000223647",
+          "options": {
+            "Color": "Soft Spruce",
+            "Item": "Regular",
+            "Size": "XXX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000223700",
+          "options": {
+            "Color": "Soft Spruce",
+            "Item": "Tall",
+            "Size": "Medium"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000223701",
+          "options": {
+            "Color": "Soft Spruce",
+            "Item": "Tall",
+            "Size": "Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000223702",
+          "options": {
+            "Color": "Soft Spruce",
+            "Item": "Tall",
+            "Size": "X-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000223703",
+          "options": {
+            "Color": "Soft Spruce",
+            "Item": "Tall",
+            "Size": "XX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000223704",
+          "options": {
+            "Color": "Soft Spruce",
+            "Item": "Tall",
+            "Size": "XXX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH280002",
+          "options": {
+            "Color": "White",
+            "Item": "Regular",
+            "Size": "Small"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH280004",
+          "options": {
+            "Color": "White",
+            "Item": "Regular",
+            "Size": "Medium"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH280006",
+          "options": {
+            "Color": "White",
+            "Item": "Regular",
+            "Size": "Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH280008",
+          "options": {
+            "Color": "White",
+            "Item": "Regular",
+            "Size": "X-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATH280009",
+          "options": {
+            "Color": "White",
+            "Item": "Regular",
+            "Size": "XX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000119938",
+          "options": {
+            "Color": "White",
+            "Item": "Regular",
+            "Size": "XXX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG480004",
+          "options": {
+            "Color": "White",
+            "Item": "Tall",
+            "Size": "Medium"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG480006",
+          "options": {
+            "Color": "White",
+            "Item": "Tall",
+            "Size": "Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG480008",
+          "options": {
+            "Color": "White",
+            "Item": "Tall",
+            "Size": "X-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "0ATG480009",
+          "options": {
+            "Color": "White",
+            "Item": "Tall",
+            "Size": "XX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        },
+        {
+          "sku": "1000119932",
+          "options": {
+            "Color": "White",
+            "Item": "Tall",
+            "Size": "XXX-Large"
+          },
+          "price": null,
+          "image_urls": [],
+          "availability": "unknown",
+          "gtin": null,
+          "mpn": null
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "Black",
+            "Charcoal Heather",
+            "Delta Blue",
+            "Gray Heather",
+            "Lake",
+            "Navy Blue",
+            "Soft Spruce",
+            "White"
+          ]
+        },
+        {
+          "name": "Item",
+          "values": [
+            "Regular",
+            "Tall"
+          ]
+        },
+        {
+          "name": "Size",
+          "values": [
+            "Small",
+            "Medium",
+            "Large",
+            "X-Large",
+            "XX-Large",
+            "XXX-Large"
+          ]
+        }
+      ]
+    },
+    "url": "https://www.llbean.com/llb/shop/40645?page=carefree-unshrinkable-teetraditional-fit-henley",
+    "source": "llbean.html",
+    "confidence": 1.0,
+    "warnings": [],
+    "field_sources": {
+      "name": "json:name",
+      "brand": "meta:og:site_name",
+      "description": "json:description",
+      "price": "json:offers.[0].price"
+    },
+    "elapsed_s": 4.47
+  },
+  {
+    "product": {
+      "name": "Nike Air Force 1 '07 LV8 Men's Shoes",
+      "price": {
+        "price": 76.99,
+        "currency": "GBP",
+        "compare_at_price": 109.99
+      },
+      "description": "Comfortable, durable and timeless—it's number one for a reason. Classic '80s construction, a subtle platform and a blend of smooth synthetic and peached leathers combine for iconic streetwear style.",
+      "key_features": [
+        "Leather upper is breathable",
+        "Perforated toe box",
+        "Lightweight cushioning from Nike Air unit",
+        "Rubber outsole with pivot circles",
+        "Low-cut silhouette",
+        "Padded collar"
+      ],
+      "image_urls": [
+        "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/6a4d2051-1fee-4ce0-aba7-5de42641dae2/NIKE+AIR+FORCE+1+%2707+LV8.png",
+        "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/7678f86a-7a74-4f51-878e-f7c56f087102/NIKE+AIR+FORCE+1+%2707+LV8.png",
+        "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/858aa60b-1f0a-414b-8eb6-a1c35d687876/NIKE+AIR+FORCE+1+%2707+LV8.png",
+        "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/357779ef-ce44-4c18-b808-79f1bba7fe21/NIKE+AIR+FORCE+1+%2707+LV8.png",
+        "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/dee2f219-5f43-491f-b1d9-5dfe1f2a2220/NIKE+AIR+FORCE+1+%2707+LV8.png",
+        "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/5d7b5506-c18a-49d9-8480-9a2db5e0633e/NIKE+AIR+FORCE+1+%2707+LV8.png",
+        "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4d3918b3-8c34-4c00-97f9-6d02bd1104c6/NIKE+AIR+FORCE+1+%2707+LV8.png",
+        "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e9d0a06f-0fb3-468d-9835-6e26762d0408/NIKE+AIR+FORCE+1+%2707+LV8.png"
+      ],
+      "video_url": null,
+      "category": {
+        "name": "Apparel & Accessories > Shoes"
+      },
+      "brand": "Nike",
+      "colors": [
+        "Phantom/College Grey/Team Red/Black"
+      ],
+      "variants": [
+        {
+          "sku": null,
+          "options": {
+            "Color": "Phantom/College Grey/Team Red/Black",
+            "Size": "5"
+          },
+          "price": {
+            "price": 76.99,
+            "currency": "GBP",
+            "compare_at_price": null
+          },
+          "image_urls": [
+            "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png"
+          ],
+          "availability": "unknown",
+          "gtin": "00198487604139",
+          "mpn": "IO2077-030"
+        },
+        {
+          "sku": null,
+          "options": {
+            "Color": "Phantom/College Grey/Team Red/Black",
+            "Size": "6"
+          },
+          "price": {
+            "price": 76.99,
+            "currency": "GBP",
+            "compare_at_price": null
+          },
+          "image_urls": [
+            "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png"
+          ],
+          "availability": "unknown",
+          "gtin": "00198487604450",
+          "mpn": "IO2077-030"
+        },
+        {
+          "sku": null,
+          "options": {
+            "Color": "Phantom/College Grey/Team Red/Black",
+            "Size": "6.5"
+          },
+          "price": {
+            "price": 76.99,
+            "currency": "GBP",
+            "compare_at_price": null
+          },
+          "image_urls": [
+            "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png"
+          ],
+          "availability": "unknown",
+          "gtin": "00198487611021",
+          "mpn": "IO2077-030"
+        },
+        {
+          "sku": null,
+          "options": {
+            "Color": "Phantom/College Grey/Team Red/Black",
+            "Size": "7"
+          },
+          "price": {
+            "price": 76.99,
+            "currency": "GBP",
+            "compare_at_price": null
+          },
+          "image_urls": [
+            "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png"
+          ],
+          "availability": "unknown",
+          "gtin": "00198487611984",
+          "mpn": "IO2077-030"
+        },
+        {
+          "sku": null,
+          "options": {
+            "Color": "Phantom/College Grey/Team Red/Black",
+            "Size": "7.5"
+          },
+          "price": {
+            "price": 76.99,
+            "currency": "GBP",
+            "compare_at_price": null
+          },
+          "image_urls": [
+            "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png"
+          ],
+          "availability": "unknown",
+          "gtin": "00198487612394",
+          "mpn": "IO2077-030"
+        },
+        {
+          "sku": null,
+          "options": {
+            "Color": "Phantom/College Grey/Team Red/Black",
+            "Size": "8"
+          },
+          "price": {
+            "price": 76.99,
+            "currency": "GBP",
+            "compare_at_price": null
+          },
+          "image_urls": [
+            "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png"
+          ],
+          "availability": "unknown",
+          "gtin": "00198487611656",
+          "mpn": "IO2077-030"
+        },
+        {
+          "sku": null,
+          "options": {
+            "Color": "Phantom/College Grey/Team Red/Black",
+            "Size": "8.5"
+          },
+          "price": {
+            "price": 76.99,
+            "currency": "GBP",
+            "compare_at_price": null
+          },
+          "image_urls": [
+            "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png"
+          ],
+          "availability": "unknown",
+          "gtin": "00198487606287",
+          "mpn": "IO2077-030"
+        },
+        {
+          "sku": null,
+          "options": {
+            "Color": "Phantom/College Grey/Team Red/Black",
+            "Size": "9"
+          },
+          "price": {
+            "price": 76.99,
+            "currency": "GBP",
+            "compare_at_price": null
+          },
+          "image_urls": [
+            "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png"
+          ],
+          "availability": "unknown",
+          "gtin": "00198487614145",
+          "mpn": "IO2077-030"
+        },
+        {
+          "sku": null,
+          "options": {
+            "Color": "Phantom/College Grey/Team Red/Black",
+            "Size": "9.5"
+          },
+          "price": {
+            "price": 76.99,
+            "currency": "GBP",
+            "compare_at_price": null
+          },
+          "image_urls": [
+            "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png"
+          ],
+          "availability": "unknown",
+          "gtin": "00198487614756",
+          "mpn": "IO2077-030"
+        },
+        {
+          "sku": null,
+          "options": {
+            "Color": "Phantom/College Grey/Team Red/Black",
+            "Size": "10"
+          },
+          "price": {
+            "price": 76.99,
+            "currency": "GBP",
+            "compare_at_price": null
+          },
+          "image_urls": [
+            "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png"
+          ],
+          "availability": "unknown",
+          "gtin": "00198487606638",
+          "mpn": "IO2077-030"
+        },
+        {
+          "sku": null,
+          "options": {
+            "Color": "Phantom/College Grey/Team Red/Black",
+            "Size": "10.5"
+          },
+          "price": {
+            "price": 76.99,
+            "currency": "GBP",
+            "compare_at_price": null
+          },
+          "image_urls": [
+            "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png"
+          ],
+          "availability": "unknown",
+          "gtin": "00198487612202",
+          "mpn": "IO2077-030"
+        },
+        {
+          "sku": null,
+          "options": {
+            "Color": "Phantom/College Grey/Team Red/Black",
+            "Size": "11"
+          },
+          "price": {
+            "price": 76.99,
+            "currency": "GBP",
+            "compare_at_price": null
+          },
+          "image_urls": [
+            "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png"
+          ],
+          "availability": "unknown",
+          "gtin": "00198487610482",
+          "mpn": "IO2077-030"
+        },
+        {
+          "sku": null,
+          "options": {
+            "Color": "Phantom/College Grey/Team Red/Black",
+            "Size": "11.5"
+          },
+          "price": {
+            "price": 76.99,
+            "currency": "GBP",
+            "compare_at_price": null
+          },
+          "image_urls": [
+            "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png"
+          ],
+          "availability": "unknown",
+          "gtin": "00198487612714",
+          "mpn": "IO2077-030"
+        },
+        {
+          "sku": null,
+          "options": {
+            "Color": "Phantom/College Grey/Team Red/Black",
+            "Size": "12"
+          },
+          "price": {
+            "price": 76.99,
+            "currency": "GBP",
+            "compare_at_price": null
+          },
+          "image_urls": [
+            "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png"
+          ],
+          "availability": "unknown",
+          "gtin": "00198487605747",
+          "mpn": "IO2077-030"
+        },
+        {
+          "sku": null,
+          "options": {
+            "Color": "Phantom/College Grey/Team Red/Black",
+            "Size": "12.5"
+          },
+          "price": {
+            "price": 76.99,
+            "currency": "GBP",
+            "compare_at_price": null
+          },
+          "image_urls": [
+            "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png"
+          ],
+          "availability": "unknown",
+          "gtin": "00198487607659",
+          "mpn": "IO2077-030"
+        },
+        {
+          "sku": null,
+          "options": {
+            "Color": "Phantom/College Grey/Team Red/Black",
+            "Size": "13"
+          },
+          "price": {
+            "price": 76.99,
+            "currency": "GBP",
+            "compare_at_price": null
+          },
+          "image_urls": [
+            "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png"
+          ],
+          "availability": "unknown",
+          "gtin": "00198487607024",
+          "mpn": "IO2077-030"
+        },
+        {
+          "sku": null,
+          "options": {
+            "Color": "Phantom/College Grey/Team Red/Black",
+            "Size": "14"
+          },
+          "price": {
+            "price": 76.99,
+            "currency": "GBP",
+            "compare_at_price": null
+          },
+          "image_urls": [
+            "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png"
+          ],
+          "availability": "unknown",
+          "gtin": "00198487608564",
+          "mpn": "IO2077-030"
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "values": [
+            "Phantom/College Grey/Team Red/Black"
+          ]
+        },
+        {
+          "name": "Size",
+          "values": [
+            "5",
+            "6",
+            "6.5",
+            "7",
+            "7.5",
+            "8",
+            "8.5",
+            "9",
+            "9.5",
+            "10",
+            "10.5",
+            "11",
+            "11.5",
+            "12",
+            "12.5",
+            "13",
+            "14"
+          ]
+        }
+      ]
+    },
+    "url": "https://www.nike.com/gb/t/air-force-1-07-lv8-shoes-E5NnNyBr",
+    "source": "nike.html",
+    "confidence": 1.0,
+    "warnings": [],
+    "field_sources": {
+      "name": "json:[0].name",
+      "brand": "json:[0].brand",
+      "description": "json:[0].description",
+      "price": "json:[0].offers.[0].offers.price+dom:compare-at"
+    },
+    "elapsed_s": 2.65
+  }
+]
