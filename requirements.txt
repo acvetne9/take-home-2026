@@ -1,0 +1,5 @@
+# Runtime dependencies for the deployed read-only catalog API only.
+# Extraction (openai, selectolax, tiktoken) runs offline and is deliberately not deployed:
+# the live site serves what `main.py` already produced, so no API key ever reaches Vercel.
+fastapi>=0.115.0
+pydantic>=2.9.0

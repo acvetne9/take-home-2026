@@ -1,10 +1,43 @@
 [project]
-name = "take-home-2026"
+name = "product-extraction"
 version = "0.1.0"
-description = "Add your description here"
+description = "Product extraction from raw PDP HTML, with a catalog API and UI over the result"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "openai>=2.15.0",
     "python-dotenv>=1.0.0",
+    # HTML parsing. Microdata binds an itemprop to its nearest ancestor itemscope, and
+    # image de-duplication needs DOM context; both are tree operations regex cannot do.
+    "selectolax>=0.3.21",
+    # Token accounting for the evidence-bundle budget.
+    "tiktoken>=0.8.0",
+    # Serving the extracted catalog to the frontend.
+    "fastapi>=0.115.0",
+    "uvicorn>=0.32.0",
 ]
+
+# pytest is not a runtime dependency, but a fresh clone has to be able to run the suite:
+# `uv sync` installs this group by default, and pip needs `pip install -e '.[dev]'`.
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[dependency-groups]
+dev = ["pytest>=8.0"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+# Explicit, because this is a flat layout with several top-level directories that are *not*
+# importable packages (data/, out/, web/, api/, tests/). Setuptools' auto-discovery refuses to
+# guess between them and aborts the install, so the documented `pip install -e .` fails on a
+# fresh clone unless the package list is spelled out.
+[tool.setuptools]
+packages = ["extract"]
+py-modules = ["ai", "main", "models", "server"]
+
+# Lets `pytest` work straight from the repo root even without an editable install.
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
