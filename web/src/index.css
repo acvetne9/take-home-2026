@@ -1,0 +1,81 @@
+@import "tailwindcss";
+
+/*
+ * One token set, two themes. Every colour in the app is a variable so dark mode is a
+ * redefinition rather than a second set of class names on every element — and so a future
+ * brand palette is a ten-line change here rather than a find-and-replace.
+ */
+@theme {
+  --color-bg: oklch(99% 0.002 260);
+  --color-surface: oklch(100% 0 0);
+  --color-fg: oklch(20% 0.012 260);
+  --color-muted: oklch(96.5% 0.003 260);
+  --color-muted-fg: oklch(52% 0.012 260);
+  --color-line: oklch(91% 0.005 260);
+  --color-ring: oklch(55% 0.16 258);
+  --color-accent: oklch(52% 0.19 24);
+  /*
+   * The plate product photographs sit on, and the one colour that does NOT flip with the
+   * theme. Merchant photography is shot on white; contained on a dark card it reads as a
+   * white box floating in a hole. Every catalog that renders other people's product shots
+   * keeps a light plate in dark mode for exactly this reason — it is the CSS stand-in for
+   * the uniform background a cleaned image would already have.
+   */
+  --color-image: oklch(97% 0.002 260);
+
+  --font-sans: ui-sans-serif, -apple-system, "Segoe UI", Inter, Roboto, Helvetica, Arial,
+    system-ui, sans-serif;
+}
+
+/*
+ * Dark mode as a plain custom-property override, NOT a nested `@theme`.
+ *
+ * Tailwind v4 hoists every `@theme` block into one unconditional `:root` declaration, so an
+ * `@theme` nested inside a media query does not stay inside it — the dark values simply won,
+ * everywhere, and the light palette never rendered. Redefining the same variables on `:root`
+ * within the query is the form that actually respects the media condition.
+ */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: oklch(16% 0.01 260);
+    --color-surface: oklch(20% 0.012 260);
+    --color-fg: oklch(96% 0.004 260);
+    --color-muted: oklch(26% 0.012 260);
+    --color-muted-fg: oklch(70% 0.012 260);
+    --color-line: oklch(30% 0.012 260);
+    --color-ring: oklch(70% 0.14 258);
+    --color-accent: oklch(70% 0.16 24);
+    /* Dimmed rather than flipped: still light enough for white-background product shots to
+       blend, dark enough not to glare against the surrounding dark UI. */
+    --color-image: oklch(89% 0.003 260);
+  }
+}
+
+@layer base {
+  html { color-scheme: light dark; }
+  body {
+    @apply bg-bg text-fg antialiased;
+    font-family: var(--font-sans);
+  }
+  /* Never suppress the focus ring; just keep it off mouse clicks. */
+  :focus-visible { @apply outline-none ring-2 ring-ring ring-offset-2 ring-offset-bg; }
+}
+
+/*
+ * The catalog -> PDP transition. The shared image keeps its identity across the navigation,
+ * so the card's photograph grows into the gallery's hero rather than the page swapping.
+ * Guarded by prefers-reduced-motion: a morph is exactly the kind of movement that triggers
+ * vestibular symptoms, and the app is fully usable without it.
+ */
+@media (prefers-reduced-motion: reduce) {
+  ::view-transition-group(*),
+  ::view-transition-old(*),
+  ::view-transition-new(*) {
+    animation: none !important;
+  }
+}
+
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation-duration: 220ms;
+}
