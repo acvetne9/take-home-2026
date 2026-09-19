@@ -1,0 +1,22 @@
+# Secrets — never leave this machine.
+.env
+
+# `tests/` ships in the repository but never runs on Vercel, and it carries the 15 platform
+# fixtures, so it stays out of the function bundle.
+tests/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Rebuilt on Vercel.
+node_modules/
+web/node_modules/
+web/dist/
+
+# Extraction-time inputs. The deployed site serves out/products.json, which main.py already
+# produced; the source HTML is not needed at runtime and is 780 KB of third-party markup.
+data/
+
+# Never ship the Vercel link.
+.vercel/

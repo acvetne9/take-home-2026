@@ -1,0 +1,9 @@
+# Runtime dependencies for the deployed read-only catalog API.
+#
+# This file sits beside the function on purpose: Vercel's Python runtime prefers a
+# `requirements.txt` adjacent to the handler over the repo's `pyproject.toml`, and the
+# pyproject lists the *extraction* dependencies (openai, selectolax, tiktoken) which must
+# never reach the deployment. The live site serves what `main.py` already produced, so no
+# OpenRouter key and no model client is needed at runtime.
+fastapi>=0.115.0
+pydantic>=2.9.0
